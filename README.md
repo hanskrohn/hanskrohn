@@ -3,7 +3,7 @@
 ](https://github.com/anuraghazra/github-readme-stats)
 
 - 📚 Software Engineering Student at Western University
-- 🧑🏻‍💻 Currently learning Mobile Development
+- 🧑🏻‍💻 Trying to learn something new everyday
 - ✍🏼 I like to write beginner tech guides. To read them check out my [blog](https://medium.com/@hanskrohn70)
 
 
